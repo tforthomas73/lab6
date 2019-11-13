@@ -1,4 +1,29 @@
-nav
+#main-navbar
 {
-    text-align: center;
+    background-color: green;
+    overflow:hidden;
+    float: left;
+    width: 100%;
+    position: relative;
+}
+#main-navbar ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+    left: 50%;
+    right: 50%;
+}
+#main-navbar li
+{
+    float: left;
+}
+#main-navbar a
+{
+    float: left;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
 }

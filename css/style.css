@@ -40,3 +40,11 @@
     background-color: #000;
     display: block;
 }
+#sidebar
+{
+    position: fixed;
+    right: 0%;
+    height: 100%;
+    width: 30%;
+    background-color: orange;
+}

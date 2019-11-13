@@ -27,3 +27,16 @@
     text-decoration: none;
     padding: 10px 20px;
 }
+#main-navbar a:hover
+{
+    float: left;
+    background-color: #000;
+    text-decoration: underline overline;
+    display: block;
+}
+#onpage
+{
+    float: left;
+    background-color: #000;
+    display: block;
+}
